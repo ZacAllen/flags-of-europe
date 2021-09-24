@@ -1,0 +1,19 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "Graphic design final project sp2021",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zach Allen",
+  "license": "ISC",
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "colorthief": "^2.3.2",
+    "iscroll": "^5.2.0",
+    "jquery-ui-touch-punch": "^0.2.3",
+    "jquery-zoom": "^1.7.21",
+    "wikijs": "^6.1.3"
+  }
+}
